@@ -1,0 +1,17 @@
+D:\VSProjects\AMTIS\AMTIS\bin\Debug\net8.0\AMTIS.exe
+D:\VSProjects\AMTIS\AMTIS\bin\Debug\net8.0\AMTIS.deps.json
+D:\VSProjects\AMTIS\AMTIS\bin\Debug\net8.0\AMTIS.runtimeconfig.json
+D:\VSProjects\AMTIS\AMTIS\bin\Debug\net8.0\AMTIS.dll
+D:\VSProjects\AMTIS\AMTIS\bin\Debug\net8.0\AMTIS.pdb
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.AssemblyInfoInputs.cache
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.AssemblyInfo.cs
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.csproj.CoreCompileInputs.cache
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.dll
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\refint\AMTIS.dll
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.pdb
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.genruntimeconfig.cache
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\ref\AMTIS.dll
+D:\VSProjects\AMTIS\AMTIS\bin\Debug\net8.0\Spectre.Console.dll
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.csproj.AssemblyReference.cache
+D:\VSProjects\AMTIS\AMTIS\obj\Debug\net8.0\AMTIS.csproj.Up2Date
